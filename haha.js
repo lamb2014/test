@@ -1,1 +1,1 @@
-onload
+onload crypto.Hash(algorithm, options);
